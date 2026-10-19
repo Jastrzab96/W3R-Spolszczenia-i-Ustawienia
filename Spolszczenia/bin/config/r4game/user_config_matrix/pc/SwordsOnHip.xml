@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserConfig>
+	<!-- Swords On Hip. Group title comes from en.w3strings (panel_swordsonhip);
+	     option labels and values are plain text (nonLocalizedName / nonLocalized).
+	     All three toggles off = mod off. The script sets asohWhenCloaked to true on first load. -->
+	<Group id="SwordsOnHip" displayName="Mods.swordsonhip">
+		<VisibleVars>
+			<Var id="asohWhenCloaked" displayName="Na Biorze Podczas Noszenia Płaszcza (Wymaga moda Hoods)" displayType="TOGGLE" tags="nonLocalizedName"/>
+			<Var id="asohAlwaysOnHip" displayName="Miecze Zawsze Na Biodrze" displayType="TOGGLE" tags="nonLocalizedName"/>
+			<Var id="asohHipPosition" displayName="Pozycja Na Biorze" displayType="OPTIONS" tags="nonLocalizedName;nonLocalized;customNames">
+				<OptionsArray>
+					<Option id="0" displayName="Lewe Biodro"><Entry varId="asohHipPosition" value="0"/></Option>
+					<Option id="1" displayName="Prawe Biodro"><Entry varId="asohHipPosition" value="1"/></Option>
+					<Option id="2" displayName="Z Peleryną"><Entry varId="asohHipPosition" value="2"/></Option>
+					<Option id="3" displayName="Z Płaszczem"><Entry varId="asohHipPosition" value="3"/></Option>
+					<Option id="4" displayName="Samurai"><Entry varId="asohHipPosition" value="4"/></Option>
+					<Option id="5" displayName="Samurai swapped"><Entry varId="asohHipPosition" value="5"/></Option>
+					<Option id="6" displayName="Egzotyczne"><Entry varId="asohHipPosition" value="6"/></Option>
+				</OptionsArray>
+			</Var>
+			<Var id="asohCrossbowAlwaysOnThigh" displayName="Kusza Zawsze Na Udzie" displayType="TOGGLE" tags="nonLocalizedName"/>
+			<Var id="asohCrossbowPosition" displayName="Pozycja Kuszy" displayType="OPTIONS" tags="nonLocalizedName;nonLocalized;customNames">
+				<OptionsArray>
+					<Option id="0" displayName="Na Plecach"><Entry varId="asohCrossbowPosition" value="0"/></Option>
+					<Option id="1" displayName="Prawe Udo"><Entry varId="asohCrossbowPosition" value="1"/></Option>
+					<Option id="2" displayName="Lewe Udo"><Entry varId="asohCrossbowPosition" value="2"/></Option>
+					<Option id="3" displayName="Prawe Biodro"><Entry varId="asohCrossbowPosition" value="3"/></Option>
+					<Option id="4" displayName="Lewa Strona"><Entry varId="asohCrossbowPosition" value="4"/></Option>
+					<Option id="5" displayName="Prawa Strona"><Entry varId="asohCrossbowPosition" value="5"/></Option>
+					<Option id="6" displayName="Z Peleryną"><Entry varId="asohCrossbowPosition" value="6"/></Option>
+					<Option id="7" displayName="Z Płaszczem"><Entry varId="asohCrossbowPosition" value="7"/></Option>
+					<Option id="8" displayName="Samurai"><Entry varId="asohCrossbowPosition" value="8"/></Option>
+					<Option id="9" displayName="Easter egg"><Entry varId="asohCrossbowPosition" value="9"/></Option>
+				</OptionsArray>
+			</Var>
+		</VisibleVars>
+	</Group>
+</UserConfig>

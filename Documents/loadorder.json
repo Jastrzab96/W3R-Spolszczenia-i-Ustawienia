@@ -1,0 +1,522 @@
+[
+  {
+    "id": "mod0000_MergedFiles",
+    "name": "mod0000_MergedFiles",
+    "enabled": true,
+    "modId": "mod0000_MergedFiles",
+    "locked": true,
+    "data": {
+      "prefix": 0
+    }
+  },
+  {
+    "id": "mod0000_MusicPlusPlaylists",
+    "name": "Music Plus - Music Plus 3.3.0 All In One Remastered (mod0000_MusicPlusPlaylists)",
+    "enabled": true,
+    "modId": "Music Plus 3.3.0 All In One Remastered 13818 3.3.0 2026-10-16T09-21Z PcKsjZPGu",
+    "locked": true,
+    "data": {
+      "prefix": 1
+    }
+  },
+  {
+    "id": "mod0000_QuickConsume_CAR_Patch",
+    "name": "QuickConsume CAR Patch (mod0000_QuickConsume_CAR_Patch)",
+    "enabled": true,
+    "modId": "QuickConsume CAR Patch 14435 1 2026-10-16T21-52Z FLZ3saFX8",
+    "locked": true,
+    "data": {
+      "prefix": 2
+    }
+  },
+  {
+    "id": "modcorvobiancoguestsextended",
+    "name": "Corvo Bianco Guests Extended (Remastered) (modcorvobiancoguestsextended)",
+    "enabled": true,
+    "modId": "Corvo Bianco Guests Extended (Remastered) 8464 3.0.0 2026-09-30T19-23Z Ukn0RyFWB",
+    "locked": false,
+    "data": {
+      "prefix": 3
+    }
+  },
+  {
+    "id": "modbrothersinarms",
+    "name": "Brothers In Arms - Ultimate Edition (Remastered) (modbrothersinarms)",
+    "enabled": true,
+    "modId": "Brothers In Arms - Ultimate Edition (Remastered) 11260 4.0.1 2026-09-30T15-28Z rIB9DAtwG",
+    "locked": false,
+    "data": {
+      "prefix": 4
+    }
+  },
+  {
+    "id": "modPTOptimization",
+    "name": "Path Tracing and Ray Tracing Optimization (Remastered) - PT Optimization 2.1 BETA (modPTOptimization)",
+    "enabled": true,
+    "modId": "PT Optimization 2.1 BETA 13025 6 2026-10-08T17-10Z kQW7gSpWZ",
+    "locked": false,
+    "data": {
+      "prefix": 5
+    }
+  },
+  {
+    "id": "mod_HoodSlots",
+    "name": "HoodSlots (mod_HoodSlots)",
+    "enabled": true,
+    "modId": "HoodSlots 14254 1.2 2026-10-16T00-50Z tCEwl5tPf",
+    "locked": false,
+    "data": {
+      "prefix": 6
+    }
+  },
+  {
+    "id": "mod_hoodsSwitchableCloak",
+    "name": "SwitchableCloaks REMASTERED version (mod_hoodsSwitchableCloak)",
+    "enabled": true,
+    "modId": "SwitchableCloaks REMASTERED version 10172 1.9.2.1 2026-10-05T19-54Z p5316CUGm",
+    "locked": false,
+    "data": {
+      "prefix": 7
+    }
+  },
+  {
+    "id": "modSwordsOnHip",
+    "name": "Swords (and Crossbows) on Hip (modSwordsOnHip)",
+    "enabled": true,
+    "modId": "Swords (and Crossbows) on Hip 13583 3.1 2026-10-14T08-36Z sedaZosRw",
+    "locked": false,
+    "data": {
+      "prefix": 8
+    }
+  },
+  {
+    "id": "modSmoothUIRemastered",
+    "name": "Smooth UI Remastered (120 fps) (modSmoothUIRemastered)",
+    "enabled": true,
+    "modId": "Smooth UI Remastered (120 fps) 13526 0.3.1 2026-10-17T13-53Z iNpQhXik1",
+    "locked": false,
+    "data": {
+      "prefix": 9
+    }
+  },
+  {
+    "id": "modTheButcherOfBlavikenDVWithouteyes4K",
+    "name": "2.1-The Butcher of Blaviken DV Without Eyes mod-4K (modTheButcherOfBlavikenDVWithouteyes4K)",
+    "enabled": true,
+    "modId": "2.1- The Butcher of Blaviken DV - Without Eyes mod - 4K-2283-DefinitiveVersion-1578662363",
+    "locked": false,
+    "data": {
+      "prefix": 10
+    }
+  },
+  {
+    "id": "mod000000SoulsCombatSAHCompatibility",
+    "name": "Souls Combat - Advanced Combat System - SeamlessAdaptiveHud Patch 2.0.2 (mod000000SoulsCombatSAHCompatibility)",
+    "enabled": true,
+    "modId": "SeamlessAdaptiveHud Patch 2.0.2 13255 2.0.2 2026-10-15T13-54Z 864tMl8M3",
+    "locked": false,
+    "data": {
+      "prefix": 11
+    }
+  },
+  {
+    "id": "mod0000SoulsCombat",
+    "name": "Souls Combat 2.0.2 Without New Perk Slots (mod0000SoulsCombat)",
+    "enabled": true,
+    "modId": "Souls Combat 2.0.2 Without New Perk Slots 13255 2.0.2 2026-10-15T13-53Z rIB9DArDN",
+    "locked": false,
+    "data": {
+      "prefix": 12
+    }
+  },
+  {
+    "id": "modBloodAndSteel",
+    "name": "modBloodAndSteel (Remastered) (modBloodAndSteel)",
+    "enabled": true,
+    "modId": "modBloodAndSteel (Remastered) 9674 v3.0 2026-10-02T16-02Z kQW7gSLSt",
+    "locked": false,
+    "data": {
+      "prefix": 13
+    }
+  },
+  {
+    "id": "modCiri",
+    "name": "Ciri alternative outfit (modCiri)",
+    "enabled": true,
+    "modId": "Ciri alternative outfit-2847-1-0",
+    "locked": false,
+    "data": {
+      "prefix": 14
+    }
+  },
+  {
+    "id": "modCosWiecejRemastered",
+    "name": "Cos Wiecej Armor Set Remastered (modCosWiecejRemastered)",
+    "enabled": true,
+    "modId": "Cos Wiecej Armor Set Remastered 13373 1.0 2026-10-03T14-24Z RgOynisuv",
+    "locked": false,
+    "data": {
+      "prefix": 15
+    }
+  },
+  {
+    "id": "modGaramond",
+    "name": "Garamond (modGaramond)",
+    "enabled": true,
+    "modId": "Garamond-12027-1-0-1775485456",
+    "locked": false,
+    "data": {
+      "prefix": 16
+    }
+  },
+  {
+    "id": "mod_GlowingEyes",
+    "name": "Glowing Eyes (mod_GlowingEyes)",
+    "enabled": true,
+    "modId": "Glowing Eyes-2234-1-04-1751014584",
+    "locked": false,
+    "data": {
+      "prefix": 17
+    }
+  },
+  {
+    "id": "modHUDScalingFix",
+    "name": "HUD Scaling Fix - Remastered (modHUDScalingFix)",
+    "enabled": true,
+    "modId": "HUD Scaling Fix - Remastered 11234 1.2 2026-10-02T18-08Z nWmiOhZBr",
+    "locked": false,
+    "data": {
+      "prefix": 18
+    }
+  },
+  {
+    "id": "modRoachLove",
+    "name": "Roach Love (modRoachLove)",
+    "enabled": true,
+    "modId": "RoachLove V1.0 13848 1.0.1 2026-10-08T04-23Z kQW7gSpZy",
+    "locked": false,
+    "data": {
+      "prefix": 19
+    }
+  },
+  {
+    "id": "modLampOnPlayersBoat_CityLight",
+    "name": "Lamp On Player's Boat - City Light (modLampOnPlayersBoat_CityLight)",
+    "enabled": true,
+    "modId": "Lamp On Player's Boat - City Light-2770-2-1-1776701669",
+    "locked": false,
+    "data": {
+      "prefix": 20
+    }
+  },
+  {
+    "id": "modLiveGraphicsPreview",
+    "name": "ModLiveGraphicsPreview 2.1 (modLiveGraphicsPreview)",
+    "enabled": true,
+    "modId": "ModLiveGraphicsPreview 2.1 13169 2 2026-10-08T12-42Z q0xDJBnIy",
+    "locked": false,
+    "data": {
+      "prefix": 21
+    }
+  },
+  {
+    "id": "modstackyouritems",
+    "name": "Stack Your Items (Remastered) (modstackyouritems)",
+    "enabled": true,
+    "modId": "Stack Your Items (Remastered) 7175 3.0.1 2026-09-30T15-48Z tCEwl5JBA",
+    "locked": false,
+    "data": {
+      "prefix": 22
+    }
+  },
+  {
+    "id": "modSGA_T5_for_OTP",
+    "name": "Fixed and Slimmer Griffin Armor - SGA T5 for On The Path (modSGA_T5_for_OTP)",
+    "enabled": true,
+    "modId": "SGA T5 for On The Path 5631 1.5 2026-09-27T20-15Z 864tMlA37",
+    "locked": false,
+    "data": {
+      "prefix": 23
+    }
+  },
+  {
+    "id": "modSlimmer_Griffin_Armor",
+    "name": "Slimmer Griffin Armor (modSlimmer_Griffin_Armor)",
+    "enabled": true,
+    "modId": "Slimmer Griffin Armor 5631 1.5 2026-09-27T20-03Z p5316CUVb",
+    "locked": false,
+    "data": {
+      "prefix": 24
+    }
+  },
+  {
+    "id": "modGriffinArmorOnThePath",
+    "name": "Griffin Armour (On The Path) Update - Griffin full set (modGriffinArmorOnThePath)",
+    "enabled": true,
+    "modId": "Griffin full set-3251-Final-1591262537",
+    "locked": false,
+    "data": {
+      "prefix": 25
+    }
+  },
+  {
+    "id": "mod00KillingMonstersArmorWinterRemasteredV2",
+    "name": "KillingMonstersArmorWinterRemastered (mod00KillingMonstersArmorWinterRemasteredV2)",
+    "enabled": true,
+    "modId": "KillingMonstersArmorWinterRemastered 12951 Remastered 2026-10-14T13-11Z 5sT4Vv5sU",
+    "locked": false,
+    "data": {
+      "prefix": 26
+    }
+  },
+  {
+    "id": "modHoods",
+    "name": "Hoods (modHoods)",
+    "enabled": true,
+    "modId": "Hoods 4242 3.6 2026-09-29T09-29Z GpMW8t9gL",
+    "locked": false,
+    "data": {
+      "prefix": 27
+    }
+  },
+  {
+    "id": "modSkipwarningsintrostorybook",
+    "name": "Skip intro storybook warnings for Remastered (modSkipwarningsintrostorybook)",
+    "enabled": true,
+    "modId": "Skip intro storybook warnings for Remastered 816 5.0.15 2026-09-29T16-39Z z2QRfnPLJ",
+    "locked": false,
+    "data": {
+      "prefix": 28
+    }
+  },
+  {
+    "id": "modwhite_tiger_quest",
+    "name": "The Legend Of The West'S Spirit - Remastered (modwhite_tiger_quest)",
+    "enabled": true,
+    "modId": "The Legend Of The West'S Spirit - Remastered 9788 3.0 2026-10-01T05-55Z 5sT4VvkJJ",
+    "locked": false,
+    "data": {
+      "prefix": 29
+    }
+  },
+  {
+    "id": "modTrissGlorified",
+    "name": "Triss (G)Lorifed (modTrissGlorified)",
+    "enabled": true,
+    "modId": "Triss (G)Lorifed-3223-LATEST-1561002981",
+    "locked": false,
+    "data": {
+      "prefix": 30
+    }
+  },
+  {
+    "id": "modpromotionalatmospherelightinglite",
+    "name": "Promotional Atmosphere Lighting Remastered Lite (modpromotionalatmospherelightinglite)",
+    "enabled": true,
+    "modId": "Promotional Atmosphere Lighting Remastered Lite 10322 5.0 2026-10-11T00-44Z p5316CLlq",
+    "locked": false,
+    "data": {
+      "prefix": 31
+    }
+  },
+  {
+    "id": "modtruerain",
+    "name": "True Rain - Remastered (modtruerain)",
+    "enabled": true,
+    "modId": "True Rain - Remastered 11603 2 2026-10-08T20-17Z 864tMlsJv",
+    "locked": false,
+    "data": {
+      "prefix": 32
+    }
+  },
+  {
+    "id": "modgaunter",
+    "name": "Gaunter O'Dimm Outfit - Version 2 (modgaunter)",
+    "enabled": true,
+    "modId": "Version 2-9622-2-1725390269",
+    "locked": false,
+    "data": {
+      "prefix": 33
+    }
+  },
+  {
+    "id": "modVesemirReduxUpdate",
+    "name": "Original (TW1) Face for Vesemir - Vesemir's Face v2.1 (modVesemirReduxUpdate)",
+    "enabled": true,
+    "modId": "Vesemir's Face v2.1-1364-2-1-1724541944",
+    "locked": false,
+    "data": {
+      "prefix": 34
+    }
+  },
+  {
+    "id": "modNeutralFaceMimic1",
+    "name": "modNeutralFaceMimic1 (modNeutralFaceMimic1)",
+    "enabled": true,
+    "modId": "modNeutralFaceMimic1-10311-1-1737583415",
+    "locked": false,
+    "data": {
+      "prefix": 35
+    }
+  },
+  {
+    "id": "modBloodTrails",
+    "name": "Blood Trails (modBloodTrails)",
+    "enabled": true,
+    "modId": "Blood Trails-8065-1-04-1752156552",
+    "locked": false,
+    "data": {
+      "prefix": 36
+    }
+  },
+  {
+    "id": "modQuickConsume",
+    "name": "ModQuickConsume (modQuickConsume)",
+    "enabled": true,
+    "modId": "ModQuickConsume 14435 2 2026-10-16T05-22Z 5sT4Vv5Mb",
+    "locked": false,
+    "data": {
+      "prefix": 37
+    }
+  },
+  {
+    "id": "modCompleteAnimationsRedux",
+    "name": "Complete Animations Redux (Remastered) (modCompleteAnimationsRedux)",
+    "enabled": true,
+    "modId": "Complete Animations Redux (Remastered) 5012 3.2.0 2026-09-30T07-29Z VZrvTcgy8",
+    "locked": false,
+    "data": {
+      "prefix": 38
+    }
+  },
+  {
+    "id": "modMeditationCampfire",
+    "name": "Campfires everywhere - ModMeditationCampfire V1.2 (modMeditationCampfire)",
+    "enabled": true,
+    "modId": "ModMeditationCampfire V1.2 13534 3.6 2026-10-12T15-06Z DzkABbiyJ",
+    "locked": false,
+    "data": {
+      "prefix": 39
+    }
+  },
+  {
+    "id": "modNewHairstylesAndBeards",
+    "name": "New Hairstyles and Beards (modNewHairstylesAndBeards)",
+    "enabled": true,
+    "modId": "New Hairstyles and Beards 4400 3.1 2026-09-29T14-05Z 2h8gGWckc",
+    "locked": false,
+    "data": {
+      "prefix": 40
+    }
+  },
+  {
+    "id": "modnomissablemutagens",
+    "name": "No Missable Mutagens (Remastered) (modnomissablemutagens)",
+    "enabled": true,
+    "modId": "No Missable Mutagens (Remastered) 8119 3.0.0 2026-09-30T18-57Z IxfUzRCG3",
+    "locked": false,
+    "data": {
+      "prefix": 41
+    }
+  },
+  {
+    "id": "modnomissabletrophies",
+    "name": "No Missable Trophies (Remastered) (modnomissabletrophies)",
+    "enabled": true,
+    "modId": "No Missable Trophies (Remastered) 8454 3.0.0 2026-09-30T19-04Z KA0dHIp72",
+    "locked": false,
+    "data": {
+      "prefix": 42
+    }
+  },
+  {
+    "id": "modW3LivingSky",
+    "name": "The Living Continent 1.5 (modW3LivingSky)",
+    "enabled": true,
+    "modId": "The Living Continent 1.5 13650 1.5 2026-10-14T05-55Z KA0dHIKQd",
+    "locked": false,
+    "data": {
+      "prefix": 43
+    }
+  },
+  {
+    "id": "modModsMenuPagination",
+    "name": "Mods Menu Pagination (modModsMenuPagination)",
+    "enabled": true,
+    "modId": "Mods Menu Pagination 13519 1.2 2026-10-04T21-52Z HbyI0z6K2",
+    "locked": false,
+    "data": {
+      "prefix": 44
+    }
+  },
+  {
+    "id": "modSeamlessAdaptiveHUD",
+    "name": "SeamlessAdaptiveHUDRemastered 2.9.1 (modSeamlessAdaptiveHUD)",
+    "enabled": true,
+    "modId": "SeamlessAdaptiveHUDRemastered 2.0.0 13194 2.0.0 2026-10-02T15-16Z AR7Jbx5xM",
+    "locked": false,
+    "data": {
+      "prefix": 45
+    }
+  },
+  {
+    "id": "modMusicPlus",
+    "name": "Music Plus - Music Plus 3.3.0 All In One Remastered (modMusicPlus)",
+    "enabled": true,
+    "modId": "Music Plus 3.3.0 All In One Remastered 13818 3.3.0 2026-10-16T09-21Z PcKsjZPGu",
+    "locked": false,
+    "data": {
+      "prefix": 46
+    }
+  },
+  {
+    "id": "modTurnOnTheLights",
+    "name": "Turn On The Lights for W3 Remastered (modTurnOnTheLights)",
+    "enabled": true,
+    "modId": "Turn On The Lights for W3 Remastered 5.01 7278 5.1.0 2026-10-09T03-36Z mlFpu6vkL",
+    "locked": false,
+    "data": {
+      "prefix": 47
+    }
+  },
+  {
+    "id": "modfasttravelpack",
+    "name": "Fast Travel Pack (Remastered) (modfasttravelpack)",
+    "enabled": true,
+    "modId": "Fast Travel Pack (Remastered) 7202 3.0.0 2026-09-29T21-05Z Q81OXmKWO",
+    "locked": false,
+    "data": {
+      "prefix": 48
+    }
+  },
+  {
+    "id": "modGwentCardNotification",
+    "name": "GwentCardNotification (5.01) (modGwentCardNotification)",
+    "enabled": true,
+    "modId": "GwentCardNotification 1.0.0 13409 1 2026-10-03T19-56Z q0xDJBMLF",
+    "locked": false,
+    "data": {
+      "prefix": 49
+    }
+  },
+  {
+    "id": "modinstanttrade",
+    "name": "ModInstantTrade (modinstanttrade)",
+    "enabled": true,
+    "modId": "ModInstantTrade 13770 1.1 2026-10-10T04-10Z q0xDJBnhu",
+    "locked": false,
+    "data": {
+      "prefix": 50
+    }
+  },
+  {
+    "id": "modzzz_sharedutils",
+    "name": "Sharedutils - All In One (modzzz_sharedutils)",
+    "enabled": true,
+    "modId": "Sharedutils - All In One 12997 4.0 2026-09-29T08-06Z vo9LceSYr",
+    "locked": false,
+    "data": {
+      "prefix": 51
+    }
+  }
+]
