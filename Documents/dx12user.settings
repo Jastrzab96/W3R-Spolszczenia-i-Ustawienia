@@ -78,6 +78,8 @@ sahStatusStep=0
 sahToxicStep=0
 sahStatusSen=0
 sahStatusTrv=2
+[ModNoDuplicates]
+ModNoDuplicatesIsEnabled=true
 [weapons_carrying_xbow]
 carrying_enable_changes_xbow=false
 [Localization]
@@ -93,7 +95,7 @@ FullScreenMode=2
 AMDAntiLag=0
 OutputMonitor=0
 [SoulsCombatHUD]
-HUDPlayerStyle=1
+HUDPlayerStyle=0
 HUDStatusesStyle=0
 HUDMinimapStyle=0
 HUDEnemiesStyle=0
@@ -157,7 +159,7 @@ Enabled=true
 [Audio]
 DynamicRange=2
 EnhancedHeadphoneMode=false
-MusicVolume=50
+MusicVolume=0
 MasterVolume=50
 Subtitles=true
 [SoulsCombatOverextended]
@@ -263,7 +265,7 @@ BrothersInArms_Q605ShaniDeath=true
 BrothersInArms_Q501CiriWH=true
 BrothersInArms_Q602WeddingExt=true
 [SoulsCombatCamera]
-LockOn=false
+LockOn=true
 LockCameraFar=true
 [Game]
 DoNotPauseWhileStopped=false
@@ -390,6 +392,7 @@ DlcEnabled_dlcswordsonhip=1
 DlcEnabled_dlc_010_001=1
 DlcEnabled_dlc_015_001=1
 DlcEnabled_dlcbia=1
+DlcEnabled_dlc_w3ls_hunting=1
 DlcEnabled_dlc_005_001=1
 DlcEnabled_dlc_007_001=1
 DlcEnabled_dlc_013_001=1
@@ -397,6 +400,7 @@ DlcEnabled_dlc_004_001=0
 DlcEnabled_dlc_boatraces=1
 DlcEnabled_dlc_017_001=0
 DlcEnabled_dlc_kontusz=1
+DlcEnabled_dlc_w3ls_rewards=1
 DlcEnabled_dlc_stackyoureitems=1
 DlcEnabled_dlc_006_001=0
 DlcEnabled_dlc_mutagens=1
@@ -475,7 +479,7 @@ RealClouds=true
 KeyModifier=0
 KeyCalendar=2
 KeyWeatherPrev=10
-StateBox=69146161
+StateBox=774211760
 Meteors=1
 DayLength=2
 SeasonalVillagers=2
@@ -504,6 +508,7 @@ Aurora=1
 SeasonParticles=false
 KeyTimeMinus=35
 MoonHalos=true
+SnowOnPeople=true
 WinterClothes=true
 RegionToussaint=2
 Footprints=true
@@ -1361,17 +1366,17 @@ sahMarkerFar=100
 sahMarkerFull=20
 sahMarkerTransp=0
 [AnimationSpeeds]
-DrinkAnimationSpeed=1
-EatAnimationSpeed=1
-RepairArmorAnimationSpeed=1
+DrinkAnimationSpeed=1.6
+EatAnimationSpeed=1.6
+RepairArmorAnimationSpeed=1.6
 DrinkPotionAnimationspeed=1.6
-RepairSwordAnimationSpeed=1
-WorkbenchAnimationSpeed=1
-GrindstoneAnimationSpeed=1
+RepairSwordAnimationSpeed=1.6
+WorkbenchAnimationSpeed=1.6
+GrindstoneAnimationSpeed=1.6
 LootAnimationSpeed=1
-AnimationSpeedInCombat=1.2
-OilAnimationSpeed=1
-DrinkPotionAnimationSpeed=1
+AnimationSpeedInCombat=1.6
+OilAnimationSpeed=1.6
+DrinkPotionAnimationSpeed=1.6
 DeadBodyLootAnimationSpeed=1
 [Save]
 ShowCompatWarning=false

@@ -1,0 +1,68 @@
+;meta[language=pl]
+; id      |key(hex)|key(str)| text
+;meta[version=162]
+2115012000|4d5f8b0c||Mody
+2115012001|a7a81719||Kompletne animacje
+2115012002|4495c289||Ustawienia animacji
+2115012003|be58e6a6||Szybkość animacji
+2115012004|5deda9a8||Domyślne
+2115012005|7ec17ce8||Animacja jedzenia
+2115012006|8f2cc768||Animacja picia
+2115012007|ca4caf74||Animacja picia eliksiru
+2115012008|664752e2||Animacja nakładania oleju
+2115012009|c8a56de5||Animacja naprawy miecza
+2115012010|3e49cea7||Animacja naprawy zbroi
+2115012011|f8b9baab||Animacja ostrzenia miecza
+2115012012|c0c45a4f||Animacja ulepszania zbroi
+2115012013|79272e82||Animacja łupienia
+2115012014|3f922587||Typ animacji zbierania ziół
+2115012015|a991ec93||Animacje jedzenia/picia podczas walki
+2115012016|488a00e2||Animacje jedzenia/picia z ekwipunku
+2115012017|97716631||Animacja nakładania oleju podczas walki
+2115012018|6af9a03b||Animacje naprawiania podczas walki
+2115012019|f9094672||Chowanie miecza po nałożeniu oleju
+2115012020|2884de09||Chowanie miecza po ostrzeniu i naprawie
+2115012021|adb81f7d||Buteleczka używana do eliksiru (ruchoma/oryginalna)
+2115012022|c7ff9230||Szybkość animacji jedzenia
+2115012023|9c68fcb0||Szybkość animacji picia
+2115012024|e4c5abbc||Szybkość animacji picia eliksiru
+2115012025|6fe784aa||Szybkość animacji nakładania oleju
+2115012026|fab8116d||Szybkość animacji naprawy miecza
+2115012027|120d58af||Szybkość animacji naprawy zbroi
+2115012028|0f7531b3||Szybkość animacji ostrzenia miecza
+2115012029|0a4a8657||Szybkość animacji ulepszania zbroi
+2115012030|a41c284a||Szybkość animacji zbierania łupu
+2115012031|62a9cc6c||Szybkość animacji łupienia zwłok
+2115012032|4bf765d5||Ruchoma
+2115012033|8b93234a||Oryginalna
+2115012034|205cb565||Ulepszona
+2115012035|9ec5d621||Alternatywna
+2115012036|3f2d55da||Dłuższa alternatywna
+2115012037|758d887c||Losowa
+2115012038|3a910916||Kontekstowa
+2115012039|4986d3f5||Wyłączone
+2115012040|9e6ef00a||Oryginalny
+2115012041|6009aa24||Nowa generacja
+2115012042|f8440c5b||Oryginalna
+2115012043|ff1b3f3a||True Potion Bottle (Mod)
+2115012044|3b070227||Ustawienia animacji
+2115012045|5dcc7948||Szybkość animacji
+2115012046|0fbeaee2||Oryginalne
+2115012047|0b431424||Animacja łupienia zwłok
+2115012048|fd79a9bc||DLC: Kompletne animacje
+2115012049|9c67ceb1||INICJALIZACJA KOMPLETNYCH ANIMACJI
+2115012050|8d3bc920||Zamknij ekwipunek przy nakładaniu oleju i naprawie
+2115012051|b71c99b0||Autopodejście do pojemnika
+2115012052|b97381f4||Autopodejście do osełki i stołu płatnerskiego
+2115012053|a65216c8||Ruchome animacje w walce
+2115012054|93d98ef6||Ruchome animacje z wyciągniętym mieczem
+2115012055|2f70ab4c||True Potion Bottle dla losowych animacji
+2115012056|2dae0dab||Zamknij ekwipunek przy jedzeniu i piciu
+2115012057|4c5ccb3d||Przerywanie szybkiego łupienia (tylko alternatywna)
+2115012058|787e7383||Ruchome animacje podczas poruszania
+2115012059|174277a6||Prędkość animacji podczas walki
+2115012060|a38411db||Ograniczenie zasięgu interakcji
+2115012061|5fd1466e||Wyciągnij/schowaj miecz po zakończeniu animacji
+2115012062|1b0fc757||Ukrywanie modułów HUD podczas animacji
+2115012063|1732a98e||Natychmiastowe użycie przedmiotu
+2115012064|8d83f6c8||Natychmiastowe okno łupu
