@@ -1,5 +1,5 @@
 @ECHO OFF
-echo Pobieranie i instalowanie spolszczeń do modów...
+echo Pobieranie i instalowanie spolszczeń i ustawień do modów...
 echo .
 echo .
 echo .
