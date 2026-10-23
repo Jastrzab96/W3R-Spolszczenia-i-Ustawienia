@@ -430,23 +430,13 @@
     }
   },
   {
-    "id": "modW3LivingSky",
-    "name": "The Living Continent 1.5 (modW3LivingSky)",
-    "enabled": true,
-    "modId": "The Living Continent 1.5 13650 1.5 2026-10-14T05-55Z KA0dHIKQd",
-    "locked": false,
-    "data": {
-      "prefix": 43
-    }
-  },
-  {
     "id": "modModsMenuPagination",
     "name": "Mods Menu Pagination (modModsMenuPagination)",
     "enabled": true,
     "modId": "Mods Menu Pagination 13519 1.2 2026-10-04T21-52Z HbyI0z6K2",
     "locked": false,
     "data": {
-      "prefix": 44
+      "prefix": 43
     }
   },
   {
@@ -456,7 +446,7 @@
     "modId": "SeamlessAdaptiveHUDRemastered 2.0.0 13194 2.0.0 2026-10-02T15-16Z AR7Jbx5xM",
     "locked": false,
     "data": {
-      "prefix": 45
+      "prefix": 44
     }
   },
   {
@@ -466,7 +456,7 @@
     "modId": "Music Plus 3.3.0 All In One Remastered 13818 3.3.0 2026-10-16T09-21Z PcKsjZPGu",
     "locked": false,
     "data": {
-      "prefix": 46
+      "prefix": 45
     }
   },
   {
@@ -476,7 +466,7 @@
     "modId": "Turn On The Lights for W3 Remastered 5.01 7278 5.1.0 2026-10-09T03-36Z mlFpu6vkL",
     "locked": false,
     "data": {
-      "prefix": 47
+      "prefix": 46
     }
   },
   {
@@ -486,7 +476,7 @@
     "modId": "Fast Travel Pack (Remastered) 7202 3.0.0 2026-09-29T21-05Z Q81OXmKWO",
     "locked": false,
     "data": {
-      "prefix": 48
+      "prefix": 47
     }
   },
   {
@@ -496,7 +486,7 @@
     "modId": "GwentCardNotification 1.0.0 13409 1 2026-10-03T19-56Z q0xDJBMLF",
     "locked": false,
     "data": {
-      "prefix": 49
+      "prefix": 48
     }
   },
   {
@@ -506,7 +496,27 @@
     "modId": "ModInstantTrade 13770 1.1 2026-10-10T04-10Z q0xDJBnhu",
     "locked": false,
     "data": {
+      "prefix": 49
+    }
+  },
+  {
+    "id": "modW3LivingSky",
+    "name": "The Living Continent 1.7 (modW3LivingSky)",
+    "enabled": true,
+    "modId": "The Living Continent 1.7 13650 1.7 2026-10-22T01-47Z hw6Xp1hIf",
+    "locked": false,
+    "data": {
       "prefix": 50
+    }
+  },
+  {
+    "id": "mod_no_duplicate_relics",
+    "name": "(Remastered) No Duplicate Relics (mod_no_duplicate_relics)",
+    "enabled": true,
+    "modId": "(Remastered) No Duplicate Relics 3014 5.01 2026-10-08T17-20Z 4acEvLdc9",
+    "locked": false,
+    "data": {
+      "prefix": 51
     }
   },
   {
@@ -516,7 +526,7 @@
     "modId": "Sharedutils - All In One 12997 4.0 2026-09-29T08-06Z vo9LceSYr",
     "locked": false,
     "data": {
-      "prefix": 51
+      "prefix": 52
     }
   }
 ]
