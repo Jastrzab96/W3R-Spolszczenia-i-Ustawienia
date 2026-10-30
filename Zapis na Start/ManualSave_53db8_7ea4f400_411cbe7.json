@@ -1,0 +1,295 @@
+{
+    "saveMetadata": {
+        "initial buildID": "5.0.1090142  P4CL: 13662125  Stream: //Red_engine/Main.Lava.Release ",
+        "current buildID": "5.0.1090142  P4CL: 13662125  Stream: //Red_engine/Main.Lava.Release ",
+        "gameVersion": 29,
+        "saveVersion": 67,
+        "buildPatch": 0,
+        "platform": "PC",
+        "modsMetadata": {
+            "numMods": 56,
+            "modsList": {
+                "mod": {
+                    "modName": "redkit_modzzz_sharedutils",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_mod_no_duplicate_relics",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modcoloredquestnames",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_mod000ironbeararmorraysucutv2",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modw3livingsky",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modinstanttrade",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modgwentcardnotification",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modfasttravelpack",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modturnonthelights",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modmusicplus",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modseamlessadaptivehud",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modmodsmenupagination",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modnomissabletrophies",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modnomissablemutagens",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modnewhairstylesandbeards",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modmeditationcampfire",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modcompleteanimationsredux",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modquickconsume",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modbloodtrails",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modneutralfacemimic1",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modvesemirreduxupdate",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modgaunter",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modtruerain",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modpromotionalatmospherelightinglite",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modtrissglorified",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modwhite_tiger_quest",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modskipwarningsintrostorybook",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modhoods",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_mod00killingmonstersarmorwinterremasteredv2",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modgriffinarmoronthepath",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modslimmer_griffin_armor",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modsga_t5_for_otp",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modstackyouritems",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modlivegraphicspreview",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modlamponplayersboat_citylight",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modroachlove",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modhudscalingfix",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "mod_glowingeyes",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modgaramond",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modcoswiecejremastered",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modciri",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modbloodandsteel",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_mod0000soulscombat",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_mod000000soulscombatsahcompatibility",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modthebutcherofblavikendvwithouteyes4k",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modsmoothuiremastered",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modswordsonhip",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "mod_hoodsswitchablecloak",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "mod_hoodslots",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "moddynamicnpcheight",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "modptoptimization",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modbrothersinarms",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "redkit_modcorvobiancoguestsextended",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "mod0000_quickconsume_car_patch",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "mod0000_musicplusplaylists",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
+                    "modName": "mod0000_mergedfiles",
+                    "modID": -1,
+                    "modGameVersion": -1
+                }
+            }
+        }
+    }
+}
