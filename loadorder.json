@@ -480,23 +480,13 @@
     }
   },
   {
-    "id": "modW3LivingSky",
-    "name": "The Living Continent 1.8 (modW3LivingSky)",
-    "enabled": true,
-    "modId": "The Living Continent 1.8 13650 1.8 2026-10-29T12-32Z Jy2BxKtDB",
-    "locked": false,
-    "data": {
-      "prefix": 48
-    }
-  },
-  {
     "id": "modfasttravelpack",
     "name": "Fast Travel Pack (Remastered) (modfasttravelpack)",
     "enabled": true,
     "modId": "Fast Travel Pack (Remastered) 7202 3.0.1 2026-10-17T16-41Z tCEwl5tB5",
     "locked": false,
     "data": {
-      "prefix": 49
+      "prefix": 48
     }
   },
   {
@@ -504,6 +494,16 @@
     "name": "GwentCardNotification (5.01) (modGwentCardNotification)",
     "enabled": true,
     "modId": "GwentCardNotification (5.01) 13409 1.0.2 2026-10-09T19-28Z IxfUzRSQd",
+    "locked": false,
+    "data": {
+      "prefix": 49
+    }
+  },
+  {
+    "id": "modW3LivingSky",
+    "name": "The Living Continent 1.8 (modW3LivingSky)",
+    "enabled": true,
+    "modId": "The Living Continent 1.8 13650 1.8 2026-10-29T12-32Z Jy2BxKtDB",
     "locked": false,
     "data": {
       "prefix": 50
@@ -530,13 +530,23 @@
     }
   },
   {
+    "id": "modAdditionalArmorStands",
+    "name": "Additional Armor Stands (modAdditionalArmorStands)",
+    "enabled": true,
+    "modId": "Additional Armor Stands 2968 0.2 2026-10-03T17-02Z nWmiOhZGx",
+    "locked": false,
+    "data": {
+      "prefix": 53
+    }
+  },
+  {
     "id": "modColoredQuestNames",
     "name": "Colored Quest Names (modColoredQuestNames)",
     "enabled": true,
     "modId": "Colored Quest Names 14849 1.0 2026-10-24T19-01Z 9UbqAJ9ht",
     "locked": false,
     "data": {
-      "prefix": 53
+      "prefix": 54
     }
   },
   {
@@ -546,7 +556,7 @@
     "modId": "(Remastered) No Duplicate Relics 3014 5.01 2026-10-08T17-20Z 4acEvLdc9",
     "locked": false,
     "data": {
-      "prefix": 54
+      "prefix": 55
     }
   },
   {
@@ -556,7 +566,7 @@
     "modId": "Sharedutils - All In One 12997 4.1 2026-10-10T15-21Z lPL5EVoZD",
     "locked": false,
     "data": {
-      "prefix": 55
+      "prefix": 56
     }
   }
 ]
