@@ -7,7 +7,7 @@
         "buildPatch": 0,
         "platform": "PC",
         "modsMetadata": {
-            "numMods": 56,
+            "numMods": 57,
             "modsList": {
                 "mod": {
                     "modName": "redkit_modzzz_sharedutils",
@@ -25,17 +25,22 @@
                     "modGameVersion": -1
                 },
                 "mod": {
+                    "modName": "redkit_modadditionalarmorstands",
+                    "modID": -1,
+                    "modGameVersion": -1
+                },
+                "mod": {
                     "modName": "redkit_mod000ironbeararmorraysucutv2",
                     "modID": -1,
                     "modGameVersion": -1
                 },
                 "mod": {
-                    "modName": "modw3livingsky",
+                    "modName": "redkit_modinstanttrade",
                     "modID": -1,
                     "modGameVersion": -1
                 },
                 "mod": {
-                    "modName": "redkit_modinstanttrade",
+                    "modName": "modw3livingsky",
                     "modID": -1,
                     "modGameVersion": -1
                 },
