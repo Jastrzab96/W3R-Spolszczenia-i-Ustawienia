@@ -420,23 +420,13 @@
     }
   },
   {
-    "id": "modSneak",
-    "name": "Unseen   Stealth Overhaul For The Witcher 3 (modSneak)",
-    "enabled": true,
-    "modId": "Unseen Stealth Overhaul For The Witcher 3 15406 1 2026-11-02T11-35Z DzkABZNeQ",
-    "locked": false,
-    "data": {
-      "prefix": 42
-    }
-  },
-  {
     "id": "modCompleteAnimationsRedux",
     "name": "Complete Animations Redux (Remastered) (modCompleteAnimationsRedux)",
     "enabled": true,
     "modId": "Complete Animations Redux (Remastered) 5012 3.3.0 2026-10-18T03-27Z GpMW8tGTe",
     "locked": false,
     "data": {
-      "prefix": 43
+      "prefix": 42
     }
   },
   {
@@ -446,7 +436,7 @@
     "modId": "ModMeditationCampfire V1.2 13534 3.6 2026-10-12T15-06Z DzkABbiyJ",
     "locked": false,
     "data": {
-      "prefix": 44
+      "prefix": 43
     }
   },
   {
@@ -456,7 +446,7 @@
     "modId": "New Hairstyles and Beards 4400 4.0 2026-10-13T23-15Z 5sT4VvKK9",
     "locked": false,
     "data": {
-      "prefix": 45
+      "prefix": 44
     }
   },
   {
@@ -466,7 +456,7 @@
     "modId": "No Missable Mutagens (Remastered) 8119 3.0.1 2026-10-17T17-53Z q0xDJBqiv",
     "locked": false,
     "data": {
-      "prefix": 46
+      "prefix": 45
     }
   },
   {
@@ -476,7 +466,7 @@
     "modId": "No Missable Trophies (Remastered) 8454 3.0.1 2026-10-17T18-30Z oDUKYHoke",
     "locked": false,
     "data": {
-      "prefix": 47
+      "prefix": 46
     }
   },
   {
@@ -486,7 +476,7 @@
     "modId": "Mods Menu Pagination 13519 1.2 2026-10-04T21-52Z HbyI0z6K2",
     "locked": false,
     "data": {
-      "prefix": 48
+      "prefix": 47
     }
   },
   {
@@ -496,7 +486,7 @@
     "modId": "SeamlessAdaptiveHUDRemastered 2.9.1 13194 2.9.1 2026-10-16T07-38Z XMCm1uXOi",
     "locked": false,
     "data": {
-      "prefix": 49
+      "prefix": 48
     }
   },
   {
@@ -506,7 +496,7 @@
     "modId": "Music Plus 3.3.0 All In One Remastered 13818 3.3.0 2026-10-16T09-21Z PcKsjZPGu",
     "locked": false,
     "data": {
-      "prefix": 50
+      "prefix": 49
     }
   },
   {
@@ -516,7 +506,7 @@
     "modId": "Turn On The Lights for W3 Remastered 7278 5.1.1 2026-10-14T20-19Z YBRHU0Yfc",
     "locked": false,
     "data": {
-      "prefix": 51
+      "prefix": 50
     }
   },
   {
@@ -526,7 +516,7 @@
     "modId": "Fast Travel Pack (Remastered) 7202 3.0.1 2026-10-17T16-41Z tCEwl5tB5",
     "locked": false,
     "data": {
-      "prefix": 52
+      "prefix": 51
     }
   },
   {
@@ -534,6 +524,16 @@
     "name": "GwentCardNotification (5.01) (modGwentCardNotification)",
     "enabled": true,
     "modId": "GwentCardNotification (5.01) 13409 1.0.2 2026-10-09T19-28Z IxfUzRSQd",
+    "locked": false,
+    "data": {
+      "prefix": 52
+    }
+  },
+  {
+    "id": "modSneak",
+    "name": "Unseen   Stealth Overhaul For The Witcher 3 (modSneak)",
+    "enabled": true,
+    "modId": "Unseen Stealth Overhaul For The Witcher 3 15406 1 2026-11-02T11-35Z DzkABZNeQ",
     "locked": false,
     "data": {
       "prefix": 53
