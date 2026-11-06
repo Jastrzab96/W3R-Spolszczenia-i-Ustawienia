@@ -242,6 +242,9 @@ sahAwareScale=100
 sahQuestNpc=2
 [ModSettingsMenuFix]
 MSMFPauseMods=false
+[FullModsListData]
+fmlData="2|26|0|BrothersInArms_Name:0:0;g_bb:0:0;cqn:0:25;car:0:10;FastTravelPack:0:9;gwentcardnotification:0:19;MeditationCampfire:0:17;w3ls_living_sky:0:0;BaS:0:5;modHUDScalingFix:0:22;msevOptions:0:12;music_plus_title:0:15;FaenMods:0:14;smoothui_remastered:0:23;Unseen:0:24;totl_mod_name:0:0;no_duplicates:0:16;ptoptimization:0:18;sahMenu:0:21;soulscombat_name:0:0;priler_switchable_cloak:0:20;swordsonhip:0:11|Unseen||Unseen=Unseen - Skradanie|"
+fmlFavInit=1
 [weapons_carrying]
 disable_weapcarry_mod=true
 [ContentManager/Mods]
@@ -659,7 +662,7 @@ RealClouds=true
 KeyModifier=0
 KeyCalendar=2
 KeyWeatherPrev=10
-StateBox=882229122
+StateBox=8341798
 Meteors=1
 DayLength=2
 SeasonalVillagers=2
@@ -1741,6 +1744,10 @@ UnderwaterVolume=100
 HorseVolume=100
 CombatExploration=false
 BoatVolume=100
+[msevOptions]
+msevFavTopOpened=true
+msevFavTopNewest=true
+msevFavTop=false
 [RefinedTracing]
 RefinedPTProfileSelect=2
 CustomLateSpecularCheckerboard=true
